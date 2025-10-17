@@ -2,7 +2,7 @@
 
 A minimalist and visually elegant finance tracking application to manage income and expenses with clarity.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Alien-A9/Finance-App)
 
 ## Key Features
 
@@ -76,7 +76,7 @@ This project is designed for seamless deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Alien-A9/Finance-App)
 
 ## Project Structure
 
